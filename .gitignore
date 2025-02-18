@@ -16,5 +16,11 @@
 local.gradle
 build
 
+# Backup files
+*~
+*.bak
+*.orig
+*.rej
+
 # OSX files
 .DS_Store
